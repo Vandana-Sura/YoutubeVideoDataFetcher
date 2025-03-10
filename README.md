@@ -1,6 +1,4 @@
-Here's a **README.md** file with context for your GitHub repository:  
 
----
 
 # **YouTube Video Data Scraper** 🎥📊  
 
