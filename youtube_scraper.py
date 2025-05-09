@@ -2,7 +2,7 @@ import argparse
 import pandas as pd
 from googleapiclient.discovery import build
 
-API_KEY = "AIzaSyAl_KxBiOu2-7toS4yTZ7D8zCxbVC6cd4A"
+API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXX"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
